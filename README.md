@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://github.com/potato47/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pushon&show_icons=true&include_all_commits=true&theme=radical" alt="potato47's github stats" />
+</a>
 
 <!--
 **PushoN/pushon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
